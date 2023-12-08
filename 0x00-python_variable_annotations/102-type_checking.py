@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 12: Type Checking
+'''Task 12 task for Type Checking
 '''
 from typing import List, Tuple
 
