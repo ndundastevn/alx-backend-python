@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 8: Complex types - functions
+'''create multiplier Complex functions
 '''
 from typing import Callable
 
